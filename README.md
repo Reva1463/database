@@ -14,4 +14,4 @@ Aplikasi web sederhana menggunakan PHP Native dan Bootstrap untuk mengelola data
 4. Buka http://localhost/folder_barang/index.php
 
 ## Screenshot Tampilan
-![Tampilan Aplikasi](screenshoot/data.png)
+![Tampilan Aplikasi](screenshoot/Data.png)
